@@ -1,0 +1,11 @@
+{
+  "version": "0.2.4",
+  "notes": "Melhorias e correções do PrintWicz.",
+  "pub_date": "2026-10-19T15:19:03.369Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDU3SjljZUNENmZXblN5c2VyWWJ3cCt6MldrUmdjRVJyem42RFJlbG1TUStFYkVKMHlzc3ZnV214cGcwamFKa3JTUDJWWWc3ZERiQUNIUy80ZnZ3VVgwVFoyYkJURUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDIzMTM4CWZpbGU6UHJpbnRXaWN6XzAuMi40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuNApDZmJKam5vUmJpQlZmYUVBWHMyOVpRcE9YODNqTUIzU1UzTW81WTVmZWtkUmg1YTQ3SWpYemZISlByeU5Nc1FXdGtmcnNXRk9ZODB6OFRWdWh2bkFBUT09Cg==",
+      "url": "https://github.com/rbogdanowicz/printwicz-releases/releases/download/printwicz-v0.2.4/printwicz-0.2.4-Windows-x64-Setup.exe"
+    }
+  }
+}

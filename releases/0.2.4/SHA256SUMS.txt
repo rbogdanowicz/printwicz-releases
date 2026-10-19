@@ -1,0 +1,2 @@
+3f25aad3ac00bc3e4b1f00b10c830720e33085b2260d49e91e53397d82a5f339  printwicz-0.2.4-Windows-x64-Setup.exe
+5c23b11a029a6a325b4f722194beb5b195e30f53593d58de2d045279bf5f1ada  printwicz-0.2.4-Windows-x64-Setup.zip
