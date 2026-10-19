@@ -1,0 +1,29 @@
+name: Publish signed installers
+on:
+  push:
+    branches: [main]
+    paths: ['latest.json']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: release
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release distribution files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          version=$(node -p "require('./latest.json').version")
+          [[ "$version" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          cd "releases/$version"
+          sha256sum --check SHA256SUMS.txt
+          name="printwicz-$version-Windows-x64-Setup"
+          gh release create "printwicz-v$version" "$name.exe" "$name.exe.sig" "$name.zip" latest.json SHA256SUMS.txt --repo "$GITHUB_REPOSITORY" --draft --title "PrintWicz $version" --notes "Instalador oficial do PrintWicz para Windows 64 bits. Baixe o Setup.exe para instalar. As próximas versões podem ser verificadas nas configurações do aplicativo."
+          gh release edit "printwicz-v$version" --repo "$GITHUB_REPOSITORY" --draft=false --latest
