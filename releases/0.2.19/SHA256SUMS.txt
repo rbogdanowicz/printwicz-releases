@@ -1,0 +1,2 @@
+d0b4d9c74143ba62090bae1cd8a3cab02c641b9be2db320755a08e5372fca8ef  printwicz-0.2.19-Windows-x64-Setup.exe
+70a59e92558b78327907474f80386ee3e4a14af7d9311dd7ce0eeb160f134ebc  printwicz-0.2.19-Windows-x64-Setup.zip
