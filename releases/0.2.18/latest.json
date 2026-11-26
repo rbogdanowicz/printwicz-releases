@@ -1,0 +1,11 @@
+{
+  "version": "0.2.18",
+  "notes": "Atualização 0.2.18:\r\n\r\n- Corrigida a ativação de Print Screen quando o atalho alternativo está indisponível.\r\n- Desativar ou tentar ativar Print Screen novamente funciona independentemente do atalho alternativo.\r\n- Aviso persistente na tela inicial quando um atalho não pode ser registrado.\r\n- Diagnósticos de registro dos atalhos para facilitar a identificação de falhas.\r\n\r\nA instalação pede confirmação e mantém suas preferências.",
+  "pub_date": "2026-11-26T05:05:45.834Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDU3SjljZUNENlh1cUNhZzVQZlJsRGhkanU0MkdsWkREMFFjcW9PellBN0hNdUxjVS95eU95bnhTbDdaeDJEcmVJVlBKckVnaDdXajdidTRqdmtlRlJhcDh3VUI2VVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY5NTQxCWZpbGU6UHJpbnRXaWN6XzAuMi4xOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE4ClBaNXFTSktLcTlUbFZKZ0tnbmkycHU2ZGtWVkQ4am5VbzB2elZYU1BiU3BzZUNPZXNKRGN5YU56UmFJMFNGQ3Jtbm5mdGtQRGtFUzRTdlFjdHRiaEJ3PT0K",
+      "url": "https://github.com/rbogdanowicz/printwicz-releases/releases/download/printwicz-v0.2.18/printwicz-0.2.18-Windows-x64-Setup.exe"
+    }
+  }
+}

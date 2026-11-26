@@ -1,0 +1,2 @@
+acfe08aa8592f1d13c332af1cc9f105bb79675c4c2a0609b85dda9b7f3d1031a  printwicz-0.2.18-Windows-x64-Setup.exe
+6a2107a07d38ca4064231a78f06f06deb704b237bdf940cdf21e3ef0ab984931  printwicz-0.2.18-Windows-x64-Setup.zip
