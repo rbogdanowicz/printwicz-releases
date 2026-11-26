@@ -1,11 +1,11 @@
 {
-  "version": "0.2.19",
-  "notes": "Atualização 0.2.19\r\n\r\nO botão “Tentar ativar novamente” registra Print Screen de novo no Windows. Se a tecla estiver ocupada, o app avisa e permite tentar outra vez sem reiniciar.",
-  "pub_date": "2026-11-26T05:43:31.814Z",
+  "version": "0.2.20",
+  "notes": "Atualização 0.2.20\r\n\r\nEm Configurações, use Copiar diagnóstico para compartilhar com o suporte a versão do app, o estado dos atalhos e os eventos recentes de captura. O envio é manual.",
+  "pub_date": "2026-11-26T16:48:24.722Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDU3SjljZUNENlNCbmk4WTZiS1lUeENHMHk0VmxmQXpTYS9GMUswQ1NlNFdpZUJpWlBMeTJlN1FTcndDOVRMREc5WitSZUJnMit0R1kzRlNnMkZ1UU5aN1gzN0ZjTVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjcxODA2CWZpbGU6UHJpbnRXaWN6XzAuMi4xOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjE5CkdJV2FpanVOWmJLaHdldGMxTDhMNk9pcFMrVk5wRnF3cExVREtGKzM0RGdtYURFeVlqMjBabm55WDQxcVhGdjJwMkF6amhzTjVHeEdYWlVFS0g3bkRRPT0K",
-      "url": "https://github.com/rbogdanowicz/printwicz-releases/releases/download/printwicz-v0.2.19/printwicz-0.2.19-Windows-x64-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNDU3SjljZUNENlN2YXp3NU84bU9YaXcybjBzYzJPS3J6VUFPM1l1bElvUklEc0JEYzRoeUdlMHphVWFySnlPNzZWME1PelNIMHYwYzg1M2ZvSjZyT3ZEOEhsbGpmbHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzExNjk5CWZpbGU6UHJpbnRXaWN6XzAuMi4yMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIwCkdGSWM4bGtuTmR6TTk5LzlDZjkyWE8wN2NlVEhOMlF6UFpGZmhUNXVsaktBblpYQVoyYVFOTmx5b214Tzh6c2pYU3NVaFZTU1ZDR2xBNmVWT3ZJYUNnPT0K",
+      "url": "https://github.com/rbogdanowicz/printwicz-releases/releases/download/printwicz-v0.2.20/printwicz-0.2.20-Windows-x64-Setup.exe"
     }
   }
 }

@@ -1,0 +1,2 @@
+d71e2752dd897f23ce63cbb8c01016f0124793b7b9c0663623c0688e0acdadee  printwicz-0.2.20-Windows-x64-Setup.exe
+b3064c3bc4ae40f0fc1a7326c0a0310fd48031396261c707d5eea9be2f4f41d3  printwicz-0.2.20-Windows-x64-Setup.zip
